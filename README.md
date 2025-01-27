@@ -5,6 +5,12 @@ A Python client for interacting with the Akash Network Chat API, available in bo
 # Repository
 https://github.com/pleabargain/akash-chat-test
 
+
+# get your API key
+
+https://chatapi.akash.network/
+
+
 ## Setup
 
 1. Ensure you have Python 3.x installed
