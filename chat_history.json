@@ -15,6 +15,22 @@
       "llm_model": "Meta-Llama-3-1-8B-Instruct-FP8",
       "processing_time": 13.536453,
       "session_id": "65e295ed-c3b2-4f4e-9627-cfe0ef617c8c"
+    },
+    {
+      "timestamp": "2025-01-27T18:16:05.364225",
+      "user_prompt": "what is your purpose?",
+      "llm_response": "I\u2019m a large language model. I don't have personal purposes but I can be used for a variety of tasks such as answering questions, generating text, translating languages and more.",
+      "llm_model": "Meta-Llama-3-1-8B-Instruct-FP8",
+      "processing_time": 5.197211,
+      "session_id": "9763dc56-1d05-4e7d-ba06-40f337945e6b"
+    },
+    {
+      "timestamp": "2025-01-27T18:16:41.284000",
+      "user_prompt": "Can you search the web?",
+      "llm_response": "I can provide information and answers to questions on a wide range of topics. However, I don't have have direct access to the internet. If I can't find the information you're looking for in my training data, I can try to:\n\n1. Provide a relevant but non-exact answer.\n2. Give you an idea of where you might find the answer.\n3. Suggest related topics that might be useful.\n\nIf you have a specific question, feel free to ask, and I'll do my best to help!",
+      "llm_model": "Meta-Llama-3-1-8B-Instruct-FP8",
+      "processing_time": 5.015365,
+      "session_id": "84cb5d58-3006-4e5d-bacf-87bf8107eb82"
     }
   ]
 }
