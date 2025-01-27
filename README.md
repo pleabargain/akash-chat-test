@@ -2,6 +2,9 @@
 
 A Python client for interacting with the Akash Network Chat API.
 
+# repo
+https://github.com/pleabargain/akash-chat-test
+
 ## Setup
 
 1. Ensure you have Python 3.x installed
