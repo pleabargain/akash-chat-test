@@ -8,6 +8,8 @@ https://github.com/pleabargain/akash-chat-test
 
 # get your API key
 
+Free!
+
 https://chatapi.akash.network/
 
 
