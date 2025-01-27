@@ -13,7 +13,7 @@ Free!
 https://chatapi.akash.network/
 
 
-## Setup
+## Setup (CLI)
 
 1. Ensure you have Python 3.x installed
 2. Install required dependencies:
